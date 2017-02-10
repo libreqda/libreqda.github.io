@@ -1,9 +1,12 @@
 ---
 title: "Manual"
+layout: archive
+header:
+  overlay_color: "#DFBC42"
+  overlay_image: /assets/images/lqda-manual.png
 permalink: /manual/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+excerpt: "Introducción a la utilización de libreQDA"
 modified: 2016-11-03T10:01:43-04:00
-layout: single
 gallery:
   - url: /assets/images/manual/01-Login.png
     image_path: /assets/images/manual/01-Login-th.png

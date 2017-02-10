@@ -2,10 +2,9 @@
 permalink: /about/
 title: "Acerca de"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/lqda-03.png
-  cta_label: "Download"
+  overlay_color: "#b677b3ff"
+  overlay_image: /assets/images/lqda-acerca-de.png
+  cta_label: "Descargar"
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Trabaja de forma colaborativa y accede a tu análisis desde cualquier lugar o dispositivo."
 layouts_gallery:

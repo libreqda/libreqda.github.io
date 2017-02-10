@@ -1,11 +1,10 @@
 ---
 permalink: /demo/
-title: "Demo"
+title: "Prueba"
 layout: archive
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/lqda-02.png
+  overlay_color: "#E65D5D"
+  overlay_image: /assets/images/lqda-prueba.png
   cta_label: "Download"
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "LibreQDA es software libre: puedes modificar su código, cuenta con el apoyo de la comunidad de usuarios y es gratuito."

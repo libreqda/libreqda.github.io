@@ -18,8 +18,8 @@ main:
     url: /manual/
   - title: "Demo"
     url: /demo/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "Contactar"
+    url: /contact/
 
 
 # documentation links
