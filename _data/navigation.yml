@@ -1,9 +1,9 @@
 # example navigation
 about:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
-  - title: "Parent Link 1"
-    url: /parent-2-page-url/
+  - title: "Manual"
+    url: /manual/
+  - title: "Equipo"
+    url: /equipo/
 
 
 # main links links
@@ -21,6 +21,12 @@ main:
   - title: "Contactar"
     url: /contact/
 
+# footer links
+footer:
+  - title: "Financiación"
+    url: /financiacion/
+  - title: "Equipo"
+    url: /home/equipo/
 
 # documentation links
 docs:

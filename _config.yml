@@ -278,6 +278,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  equipo:
+    output: true
+    permalink: /:collection/:path/
   faq:
     output: true
     permalink: /:collection/:path/

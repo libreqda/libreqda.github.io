@@ -17,27 +17,8 @@ layouts_gallery:
   - url: /assets/images/manual/16-CrearCita-4.png
     image_path: /assets/images/manual/16-CrearCita-4.png
     alt: "archive layout example"
-intro:
-    - excerpt: 'Promotores del proyecto`type="center"`'
-feature_row:
-    - image_path: assets/images/marc.png
-      alt: "Marc Bria"
-      title: "Marc Bria"
-      excerpt: "Universitat Autònoma de Barcelona"
-    - image_path: /assets/images/lupa.png
-      alt: "Luis Alonzo Fulchi"
-      title: "Luis Alonzo Fulchi"
-      excerpt: "DATA-CSE - Universidad de la República"
-    - image_path: /assets/images/paribanu.png
-      alt: "Paribanu Freitas"
-      title: "Paribanu Freitas"
-      excerpt: "Insituto de Fundamentos y Métodos en Psicología - Universidad de la República"
-      url: "#test-link"
-      btn_label: "Read More"
-      btn_class: "btn--inverse"
-    - image_path: /assets/images/juan.png
-      title: "Juan Muñoz Justicia"
-      excerpt: "Departamento de Psicología Social - Universitat Autònoma de Barcelona"
+sidebar:
+      nav: "about"
 modified: 2017-01-24T09:40:33-05:00
 ---
 
@@ -51,23 +32,5 @@ Dadas las características del programa, se presta a su utilización por parte d
 
 {% include gallery id="layouts_gallery" caption="Unas capturas de pantalla" %}
 
-[Instalar]({{ "https://github.com/libreqda/libreQDA" | absolute_url }}){: .btn .btn--success .btn--large}
 
-## Equipo
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-Promotores del proyecto
-Marc Bria
-Universitat Autònoma de Barcelona
-
-Luis Alonzo Fulchi
-DATA-CSE - Universidad de la República
-
-Paribanú Freitas
-Insituto de Fundamentos y Métodos en Psicología - Universidad de la República
-
-Juan Muñoz Justicia
-Departamento de Psicología Social - Universitat Autònoma de Barcelona
+[Equipo](/equipo/){: .btn .btn--success .btn--large}
