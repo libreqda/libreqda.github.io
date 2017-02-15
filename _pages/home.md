@@ -41,9 +41,7 @@ feature_row:
     excerpt: "¿Quieres saber más sobre libreQDA?"
     url: "/contact/"
     btn_label: "Contactar"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-intro:
+
 ---
 
 {% include feature_row id="intro" type="center" %}
