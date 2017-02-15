@@ -4,10 +4,8 @@ title: "Prueba"
 layout: archive
 header:
   overlay_color: "#E65D5D"
-  overlay_image: /assets/images/lqda-prueba.png
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "LibreQDA es software libre: puedes modificar su código, cuenta con el apoyo de la comunidad de usuarios y es gratuito."
+  overlay_image: /assets/images/lqda-header-prueba.png
+excerpt: "libreQDA en nuestro servidor de pruebas."
 modified: 2017-01-24T09:40:33-05:00
 ---
 

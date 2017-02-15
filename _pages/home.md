@@ -1,14 +1,10 @@
 ---
 layout: splash
 permalink: /home/
+id: "inicio"
+name: home
 header:
-  overlay_color: "#91949D"
   overlay_image: /assets/images/lqda-header-1.png
-  cta_label: "<i class='fa fa-download'></i> Instalar"
-  cta_url: "https://github.com/libreqda/libreQDA"
-  caption:
-excerpt: 'LibreQDA es una aplicación libre para el análisis cualitativo de datos textuales.
-Es multiusuario, multiplataforma, apropiable y gratuita..<br /> <small><a href="https://github.com/libreqda/libreQDA/releases/tag/v0.5">Última versión v0.5</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=libreqda&repo=libreQDA&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=libreqda&repo=libreQDA&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/lq-acercade.png
     alt: "Acerca de"
@@ -25,7 +21,7 @@ feature_row:
   - image_path: /assets/images/lq-demo.png
     alt: "Demo"
     title: "Demo"
-    excerpt: "Si antes de instalar quieres probar el programa, aquí puedes acceder a una demo"
+    excerpt: "Para probar el programa antes de instalar"
     url: "/demo/"
     btn_label: "Leer"
   - image_path: /assets/images/lq-descargar.png
