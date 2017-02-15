@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /home/
 id: "inicio"
 name: home
 header:
