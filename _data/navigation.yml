@@ -8,8 +8,6 @@ about:
 
 # main links links
 main:
-  - title: "Inicio"
-    url: /home/
   - title: "Acerca de"
     url: /about/
   - title: "FAQ"

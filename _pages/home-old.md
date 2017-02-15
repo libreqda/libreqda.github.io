@@ -2,7 +2,6 @@
 layout: splash
 permalink: /home/
 id: "inicio"
-name: home
 header:
   overlay_image: /assets/images/lqda-header-1.png
 feature_row:
