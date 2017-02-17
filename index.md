@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/lq-acercade.png
     alt: "Acerca de"
     title: "Acerca de"
-    excerpt: "Sobre el equipo equipo y financiación"
+    excerpt: "Una breve descripción de qué es libreQDA"
     url: "/about/"
     btn_label: "Leer"
   - image_path: /assets/images/lq-manual.png
