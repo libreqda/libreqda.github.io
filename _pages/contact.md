@@ -9,11 +9,42 @@ excerpt: "Si tienes más preguntas, sugerencias... puedes contactar con nosotros
 modified: 2017-01-24T09:40:33-05:00
 ---
 
-<form action="https://formspree.io/juanmunoz.juan@gmail.com" method="POST">
-    <input type="text" name="name">
-    <input type="text" name="_subject" value="New submission!" />
+<form action="https://formspree.io/libreqda@listas.softwarelibre.edu.uy" method="POST">
+  <table width="75%">
+    <tr>
+      <td>
+        Su nombre:
+      </td>
+      <td>
+        <input type="text" name="name">
+      </td>
+    </tr>
+    <tr>
+    <td>
+    Dirección de Correo:
+    </td>
+    <td>
     <input type="email" name="_replyto">
-    <input type="submit" value="Send">
+    </td>
+    </tr>
+    <tr>
+      <td>
+        Asunto:
+      </td>
+      <td>
+        <input type="text" name="_subject" />
+      </td>
+    </tr>
+    <tr>
+    <td style="vertical-align:top">
+      Su mensaje:
+    </td>
+    <td valign="top">
+      <textarea name="comment" rows="15" cols="45"></textarea>
+    </td>
+    </tr>
+  </table>
+    <input type="submit" value="Enviar">
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="/about/" />
 </form>
