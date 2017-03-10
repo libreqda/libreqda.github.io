@@ -1,5 +1,7 @@
 ---
 title: "¿Y si no tengo un servidor propio?"
+ref: servidor
+lang: es
 ---
 
 Aunque una de las características importantes de LibreQDA es su interficie web, no es necesario disponer de un servidor propio para instalarlo,

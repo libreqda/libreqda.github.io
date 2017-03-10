@@ -1,5 +1,7 @@
 ---
 title: "¿Por qué usar LibreQDA si ya existen otros programas similares?"
+ref: porque
+lang: es
 ---
 
 Aunque existen otros excelentes programas para el análisis cualitativo, LibreQDA aúna dos importantes características.

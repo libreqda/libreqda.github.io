@@ -1,24 +1,40 @@
-# example navigation
-about:
-  - title: "Manual"
-    url: /manual/
-  - title: "Equipo"
-    url: /equipo/
+    # example navigation
+    about:
+      - title: "Handbook"
+        url: /manual/
+      - title: "Team"
+        url: /equipo/
 
+    acercade:
+      - title: "Manual"
+        url: /manual/
+      - title: "Equipo"
+        url: /equipo/
 
-# main links links
-main:
-  - title: "Acerca de"
-    url: /about/
-  - title: "FAQ"
-    url: /faq/
-  - title: "Manual"
-    url: /manual/
-  - title: "Demo"
-    url: /demo/
-  - title: "Contactar"
-    url: /contact/
-
+    # main links links
+    main:
+      en:
+      - title: "About" # {{ site.data.ui-text[site.locale].acercade | default: "Acerca" }}
+        url: /about/
+      - title: "FAQ"
+        url: /faq/
+      - title: "Handbook"
+        url: /handbokk/
+      - title: "Test"
+        url: /test/
+      - title: "Contact"
+        url: /contact/
+      es:
+      - title: "Acerca de" # {{ site.data.ui-text[site.locale].acercade | default: "Acerca" }}
+        url: /acercade/
+      - title: "FAQ"
+        url: /pf/
+      - title: "Manual"
+        url: /manual/
+      - title: "Demo"
+        url: /demo/
+      - title: "Contactar"
+        url: /contactar/
 # footer links
 footer:
   - title: "Financiación"

@@ -1,5 +1,8 @@
 ---
 title: "¿Qué es libreQDA?"
+ref: quees
+lang: es
+
 ---
 
 libreQDA es una aplicación libre para el análisis cualitativo de datos textuales. Es multiusuario, multiplataforma, apropiable y gratuita.

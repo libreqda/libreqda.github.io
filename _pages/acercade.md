@@ -1,11 +1,11 @@
 ---
-permalink: /about/
-title: "About"
+title: "Acerca de"
+permalink: /acercade/
 header:
   overlay_color: rgb(182,119,179)
   overlay_image: /assets/images/lqda-header-acercade.png
 excerpt: "Trabaja de forma colaborativa y accede a tu análisis desde cualquier lugar o dispositivo."
-layouts_gallery:
+gallery:
   - url: /assets/images/manual/01-Login.png
     image_path: /assets/images/manual/01-Login.png
     alt: "splash layout example"
@@ -16,15 +16,15 @@ layouts_gallery:
     image_path: /assets/images/manual/16-CrearCita-4.png
     alt: "archive layout example"
 sidebar:
-  nav: "about"
-modified: 2017-01-24T09:40:33-05:00
+  nav: "acercade"
 ref: acercade
-lang: en
+lang: es
+modified: 2017-01-24T09:40:33-05:00
 ---
 
 ## ¿Qué es?
 
-libreQDa is **software for qualitative textual data analysis** que pretende dar respuesta a la necesidad de equipos docentes y grupos de investigación, de contar con una herramienta libre para el análisis cualitativo de datos como una alternativa al programario privativo (Atlas.ti, MaxQDA, Nvivo...)
+libreQDa es un **programa para el análisis cualitativo de datos textuales** que pretende dar respuesta a la necesidad de equipos docentes y grupos de investigación, de contar con una herramienta libre para el análisis cualitativo de datos como una alternativa al programario privativo (Atlas.ti, MaxQDA, Nvivo...)
 
 Además de libre, otra de las características importantes del programa es que permite ser instalado tanto en un ordenador personal como en un servidor, lo que permite, en este último caso, ser utilizado como aplicación web y por lo tanto ser independiente del sistema operativo (puedes utilizarlo tanto desde un ordenador con Windows como desde un Mac o incluso si utilizas Linux.
 

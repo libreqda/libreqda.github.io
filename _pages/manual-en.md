@@ -1,11 +1,12 @@
 ---
-title: "Manual"
+title: "Handbook"
 header:
   overlay_color: "#DFBC42"
   overlay_image: /assets/images/lqda-header-manual.png
-permalink: /manual/
+permalink: /handbook/
+layout: splash
 ref: manual
-lang: es
+lang: en
 excerpt: "Introducción a la utilización de libreQDA"
 modified: 2016-11-03T10:01:43-04:00
 gallery:

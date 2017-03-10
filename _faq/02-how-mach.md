@@ -1,5 +1,8 @@
 ---
-title: "¿Cuánto cuesta?"
+title: "¿How mach costs?"
+ref: cuanto
+lang: en
+
 ---
 
 LibreQDA es software libre y gratuito (en este caso sí, como "free beer"), puedes descargar el código sin ningún coste.

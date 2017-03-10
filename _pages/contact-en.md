@@ -1,13 +1,13 @@
 ---
-permalink: /contactar/
-title: "Contactar"
+permalink: /contact/
+title: "Contact"
 layout: splash
 header:
   overlay_color: "#D98E64"
   overlay_image: /assets/images/lqda-header-contactar.png
 excerpt: "Si tienes más preguntas, sugerencias... puedes contactar con nosotros"
 ref: contact
-lang: es
+lang: en
 modified: 2017-01-24T09:40:33-05:00
 ---
 
@@ -15,7 +15,7 @@ modified: 2017-01-24T09:40:33-05:00
   <table width="75%">
     <tr>
       <td>
-        Su nombre:
+        Name:
       </td>
       <td>
         <input type="text" name="name">
@@ -23,7 +23,7 @@ modified: 2017-01-24T09:40:33-05:00
     </tr>
     <tr>
     <td>
-    Dirección de Correo:
+    Email:
     </td>
     <td>
     <input type="email" name="_replyto">
@@ -31,7 +31,7 @@ modified: 2017-01-24T09:40:33-05:00
     </tr>
     <tr>
       <td>
-        Asunto:
+        Subject:
       </td>
       <td>
         <input type="text" name="_subject" />
@@ -39,14 +39,14 @@ modified: 2017-01-24T09:40:33-05:00
     </tr>
     <tr>
     <td style="vertical-align:top">
-      Su mensaje:
+      Text:
     </td>
     <td valign="top">
       <textarea name="comment" rows="15" cols="45"></textarea>
     </td>
     </tr>
   </table>
-    <input type="submit" value="Enviar">
+    <input type="submit" value="Send">
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="/about/" />
 </form>

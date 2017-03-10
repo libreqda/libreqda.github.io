@@ -6,7 +6,7 @@
         {% if page.id != 'inicio' %}
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          {% for link in site.data.navigation.main[page.lang] %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
