@@ -4,6 +4,8 @@ title: "Financiación"
 header:
   overlay_color: "#ff5555"
   overlay_image: /assets/images/lqda-header-financiacion.png
+ref: financiacion
+lang: es
 modified: 2017-01-24T09:40:33-05:00
 ---
 
