@@ -15,6 +15,6 @@ modified: 2017-01-24T09:40:33-05:00
 
 Ten en cuenta que es una demo, por lo que no garantizamos el mantenimiento ni la estabilidad de los datos.
 
-[Test](/test/){: .btn .btn--success .btn--large}
+[Test <i class="fa fa-fw fa-rocket"></i>](/test/){: .btn .btn--success .btn--large}
 
 [http://www.libreqda.edu.uy/demo](http://www.libreqda.edu.uy/demo)
